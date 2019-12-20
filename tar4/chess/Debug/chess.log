@@ -1,0 +1,6 @@
+﻿  main.c
+  ass4.c
+  Generating Code...
+C:\Raviv\Ccourse\tar4\chess\ass4.c(1135,21): warning C4013: 'performCopyMove' undefined; assuming extern returning int
+C:\Raviv\Ccourse\tar4\chess\ass4.c(1086): warning C4715: 'checkBySrcPiece': not all control paths return a value
+  chess.vcxproj -> C:\Raviv\Ccourse\tar4\chess\Debug\chess.exe
