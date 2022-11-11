@@ -19,4 +19,4 @@ The main screen has a graphic display which runs the Chess game:
 ![UML](https://imgur.com/6WMSI6z.png)
 
 ### Running
-To run, enter to the "ass4" folder then open cmd for this path
+To run, enter to the "tar4" folder then open cmd for this path.
