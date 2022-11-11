@@ -19,4 +19,8 @@ The main screen has a graphic display which runs the Chess game:
 ![UML](https://imgur.com/6WMSI6z.png)
 
 ### Running
-To run, enter to the "tar4" folder then open cmd for this path.
+To run, enter to the "tar4" folder then run the file ass4.c using the 3 functions:
+- void createBoard(char board[][SIZE], char fen[]);
+- void printBoard(char board[][SIZE]);
+- void makeMove(char board[][SIZE], char pgn[], int isWhiteTurn);
+
